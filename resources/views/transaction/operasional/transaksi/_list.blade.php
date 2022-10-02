@@ -33,7 +33,7 @@
                                 <th>Total Price</th>
                                 <th>Diskripsi</th>
                                 <th>Bukti Bayar</th>
-                                <th>Action</th>
+                                <th>Aksi</th>
 
                             </thead>
                             <tbody>
