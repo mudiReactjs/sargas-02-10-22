@@ -101,7 +101,7 @@
                             <th>Total Price</th>
                             <th>Diskripsi</th>
                             <th>Bukti Bayar</th>
-                            <th>Action</th>
+                            <th>Action percoban</th>
 
                         </thead>
                         <tbody>
